@@ -1,7 +1,5 @@
 <p align="center">
- 
-[<img width="240" src="https://github.com/Emplexx/Aluminium/assets/64900852/b3ba6fc9-8821-4267-90ef-9829ade15bbf">](https://play.google.com/store/apps/details?id=moe.emi.aluminium)
-  
+ <a href="https://play.google.com/store/apps/details?id=moe.emi.aluminium"><img width="240" src="https://github-production-user-asset-6210df.s3.amazonaws.com/64900852/258634092-b3ba6fc9-8821-4267-90ef-9829ade15bbf.png"></a>
 </p>
 
 
