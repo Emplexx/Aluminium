@@ -44,3 +44,7 @@ TBA
 ### Random bits of information
 - this repo probably won't have the source code for a while because it's embarassingly bad
 - you can report bugs and suggest features by opening an issue
+
+<hr>
+
+<sup>Google Play and the Google Play logo are trademarks of Google LLC.</sup>
