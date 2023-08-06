@@ -1,8 +1,15 @@
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=moe.emi.aluminium"> 
+    <img width="240" src="https://github.com/Emplexx/Aluminium/assets/64900852/b3ba6fc9-8821-4267-90ef-9829ade15bbf">
+  </a>
+  
+</p>
+
 # Aluminium
 An AniList Client
 
 ## Download
-Play Store
+<a>[Play Store](https://play.google.com/store/apps/details?id=moe.emi.aluminium)</a>
 
 ## Screenshots
 TBA
